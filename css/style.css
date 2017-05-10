@@ -1,0 +1,51 @@
+.heading {
+  background: #00008B;
+  padding: 10px;
+}
+.heading h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  margin: 0 auto;
+}
+.parking-content {
+  margin: 0 auto;
+  font-family: 'Nunito', sans-serif;
+  display: table;
+  width: 95%;
+}
+.yes {
+  display: inline-block;
+  width: 49%;
+  border: 1px black solid;
+  vertical-align: top;
+  color: green;
+}
+.no {
+  display: inline-block;
+  width: 49%;
+  border: 1px black solid;
+  color: red;
+}
+.full {
+  width: 49%;
+  display: inline-block;
+  background: #F5F5F5;
+  border: 1px #C0C0C0 solid;
+}
+
+.empty {
+  width: 49%;
+  display: inline-block;
+  background: #F5F5F5;
+  border: 1px #C0C0C0 solid;
+}
+.almostempty {
+  color: #8B0000;
+}
+h3 {
+  display: inline-block;
+}
+h2 {
+  text-align: center;
+}
